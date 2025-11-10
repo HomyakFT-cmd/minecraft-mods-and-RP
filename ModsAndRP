@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Моды и Ресурс-паки для Minecraft</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <header>
+        <div class="container">
+            <img src="images/logo.png" alt="Логотип" class="logo" />
+            <h1>Моды и Ресурс-паки для Minecraft</h1>
+            <nav>
+                <ul>
+                    <li><a href="#mods">Моды</a></li>
+                    <li><a href="#resource-packs">Ресурс-паки</a></li>
+                    <li><a href="#about">О сайте</a></li>
+                    <li><a href="#contact">Контакты</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="mods" class="section">
+            <h2>Последние моды</h2>
+            <div class="cards-container">
+                <!-- Карточки модов -->
+                <div class="card">
+                    <img src="images/placeholder.png" alt="Мод 1" />
+                    <h3>Название мода 1
